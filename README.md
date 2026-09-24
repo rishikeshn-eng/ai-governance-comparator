@@ -1,5 +1,7 @@
 # ai-governance-comparator
 
+**Live app:** https://ai-governance-comparator-sjbrvv7vksyexaa9umtxiy.streamlit.app
+
 A structured side-by-side of how the EU, United States, India and the United
 Kingdom answer the same eighteen AI governance questions, with a divergence
 map showing where an international standard would be hardest to negotiate.
